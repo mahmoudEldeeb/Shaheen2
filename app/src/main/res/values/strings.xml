@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Shaheen </string>
+
+    <string name="recive">استلام مخزن</string>
+    <string-array name="category_titles">
+        <item>اختر القسم</item>
+        <item>فراخ 1</item>
+        <item>فراخ 2</item>
+        <item>فراخ 3</item>
+        <item>فراخ 4</item>
+        <item>فراخ 5</item>
+        <item>فراخ 6</item>
+    </string-array>
+
+    <string-array name="pages_name">
+        <item>صرف مخزن</item>
+        <item>استلام مخزن</item>
+        <item>جرد مخزن</item>
+        <item>تحويل مخزن</item>
+        <item>استلام مباشر</item>
+
+    </string-array>
+    <string name="details"><u>التفاصيل</u>.</string>
+    <string name="enter_items">ادخال عناصر الباليته</string>
+    <string name="scan_pallete">سكان رقم الباليته</string>
+    <string name="scann_item">سكان عنصر </string>
+    <string name="item_name">اسم العنصر</string>
+    <string name="magzar">المجزر</string>
+    <string name="item_date">تاريخ الانتاج</string>
+    <string name="item_source">اسم المخزن</string>
+    <string name="product_name">اسم الصنف</string>
+    <string name="cat_name">اسم المجموعة</string>
+    <string name="item_weight">الوزن</string>
+    <string name="add_item">اضافة عنصر</string>
+    <string name="recive_store">استلام مخزن</string>
+    <string name="daily_process">الحركات اليومية</string>
+    <string name="new_process">حركة جديدة</string>
+</resources>

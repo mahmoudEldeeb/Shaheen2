@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical"
+    android:background="@drawable/backstock"
+    android:layout_margin="@dimen/margin_vertical"
+
+    >
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:id="@+id/image"
+        android:src="@drawable/recive_icon"/>
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/title"
+    android:text="استلام مخزن"
+    android:textSize="@dimen/home_text"
+    android:textColor="@color/black"
+    android:gravity="center"
+    />
+</LinearLayout>
