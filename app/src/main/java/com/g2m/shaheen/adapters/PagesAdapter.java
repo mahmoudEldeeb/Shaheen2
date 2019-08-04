@@ -38,6 +38,7 @@ public PagesAdapter.ViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, 
         viewHolder = new ViewHolder(view);
         return viewHolder;
         }
+        ///////////////////////////////
 
 
 @Override
